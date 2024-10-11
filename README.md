@@ -1,2 +1,2 @@
-# RubyProject
-Ruby
+# AOC 
+Just some AOC practice.
